@@ -7,12 +7,12 @@ The one constant right now is that when you've got hundreds of cells it is very 
 ![image](https://github.com/orsburn/SCPViz/assets/39571544/64d380e4-67e5-406a-82be-f00d7941913f)
 
 
-Box plots with each individual cells and simple t-tests shown. You can graph your single protein as density plots, histograms, violin plots - whatever floats your boat - or the original data points - the last of which is fully interactable, zoomable, and exportable.
+Box plots with each individual cells and simple t-tests shown above. But you can graph your single protein as density plots, histograms, violin plots - whatever floats your boat - or the original data points - the last of which is fully interactable, zoomable, and exportable.
 
 ![image](https://github.com/orsburn/SCPViz/assets/39571544/d7f1e2de-7659-4333-91d0-71896b0335b2)
 
 
-Why is it "universal" you have complete control over what columns you want to use within the text data that you upload. 
+What makes it "universal"? You have complete control over what columns you want to use within the text data that you upload. 
 For example, Proteome Discoverer uses the word "Abundance" and for multiplexed data, you'll get a column header starting with an "Abundance_F...something" so you just use "Abundance_F" (no quotation marks) as your abundance flag. 
 SpectroNaut uses PG.Quantity in the header. Use that instead. For FragPipe you have "Intensity" or "MaxLFQ" or "Normalized Intensity" use that text to pull data from the correct columns.
 Once loaded, you can go to the columns tab and see what you've loaded.
