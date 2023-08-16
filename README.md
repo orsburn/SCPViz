@@ -25,7 +25,7 @@ You can easily check that you're looking at the right cells with the integrated 
 ![image](https://github.com/orsburn/SCPViz/assets/39571544/9f8e9a3e-e48e-4aa9-b007-3d6faff35002)
 
 
-Tutorial videos on install and operation are cominng. Check back here soon. 
+Tutorial videos on install and operation are coming. Check back here soon. 
 
 This App was created entirely by Ahmed Warshanna during his training in proteomics and protein informatics as a research specialist in the Orsburn Lab (www.orsburnlab.org).
 
