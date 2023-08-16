@@ -27,6 +27,6 @@ You can easily check that you're looking at the right cells with the integrated 
 
 Tutorial videos on install and operation are cominng. Check back here soon. 
 
-This App was created entirely by Ahmed Warshanna as during his training in proteomics and protein informatics as a research specialist in the Orsburn Lab (www.orsburnlab.org).
+This App was created entirely by Ahmed Warshanna during his training in proteomics and protein informatics as a research specialist in the Orsburn Lab (www.orsburnlab.org).
 
 
