@@ -1,6 +1,8 @@
 # SCPViz
 SCP Viz - A universal vizualization platform for single protein analysis in single cell proteomics data 
 
+Just want to get running with SCP Viz? Here is a tutorial video. https://youtu.be/eK5RtNQMviY
+
 Single Cell Proteomics by mass spectrometry is an exciting and emerging field of research that has yet to take a final form. You can use many mass spectrometers and you can use any of the over 1,000 LCMS data analysis platforms to process your data.
 The one constant right now is that when you've got hundreds of cells it is very difficult to see what each single protein is doing. And this is where SCP Viz comes in. 
 
@@ -24,8 +26,6 @@ You can easily check that you're looking at the right cells with the integrated 
 
 ![image](https://github.com/orsburn/SCPViz/assets/39571544/9f8e9a3e-e48e-4aa9-b007-3d6faff35002)
 
-
-Tutorial videos on install and operation are coming. Check back here soon. 
 
 This App was created entirely by Ahmed Warshanna during his training in proteomics and protein informatics as a research specialist in the Orsburn Lab (www.orsburnlab.org).
 
